@@ -1,0 +1,80 @@
+body {
+	padding: 5px;
+	font-family: sans-serif;
+	font-size: 9pt;
+}
+
+a {
+	text-decoration: none;
+}
+
+.object {
+	border: 1px solid black;
+	margin: 5px;
+	
+}
+
+.printString {
+	background-color: #efefef;
+	padding: 4px;
+}
+
+.properties {
+	background-color: #deded0;
+	padding: 4px;
+}
+
+.slots {
+	width: 100%;
+	background-color: #ffffd0;
+	padding: 4px;
+}
+
+
+.slots th {
+	width: 15em;
+	text-align: left;
+	border-bottom: 1px solid #deded0;
+	margin: 0px;
+}
+
+.slots td {
+	border-bottom: 1px solid #deded0;
+
+}
+
+.item th {
+	color: gray;
+ 	font-weight: normal; 
+}
+
+.item {
+}
+
+.navigation {
+	font-size: 8pt;
+	background-color: #ddddff;
+	border: 1px solid blue;
+	padding: 5px;
+	margin: 5px;
+}
+
+.reference {
+	font-size: 8pt;
+	color: gray;
+}
+
+.decompileString {
+	background-color: #ffdddd;
+}
+
+.references {
+	font-size: 8pt;
+	padding: 3px;
+	background-color: lightGray;
+	color: gray;
+}
+
+.references a {
+	padding-right: 4px;
+}
